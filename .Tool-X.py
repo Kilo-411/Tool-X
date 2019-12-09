@@ -26,7 +26,7 @@ class chk(object):
 def Tool_X():
   try:
 	chk().chos()
-	ToolX()
+	Tool_X()
 
   except KeyboardInterrupt:
 	exit()
