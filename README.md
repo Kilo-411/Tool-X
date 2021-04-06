@@ -15,7 +15,7 @@
 Tool-X was developed for Termux and other android terminals. Using Tool-X, you can install almost 263 hacking tools in Termux and other Linux based distributions. Now Tool-X is available for Ubuntu, Debian etc.
 
 <p align="center">
-<img height="500px" width="500px" src="https://github.com/Rajkumrdusad/Tool-X/blob/master/.sc/Logo.jpg"/>
+<img height="500px" width="500px" src="https://github.com/Kilo-411/Tool-X/blob/master/.sc/Logo.jpg"/>
 </p>
 
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/Rajkumrdusad/Tool-X.git`
+* `git clone https://github.com/Kilo-411/Tool-X.git`
 
 * `cd Tool-X`
 
